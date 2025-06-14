@@ -36,10 +36,10 @@ nav{
 }
 
 nav .left a{
-    color: rgb(121, 121, 0);
-    font-size: 29px;
+    color: var(--text-color);
+    font-size: 22px;
     font-weight: 600;
-
+}
 nav .right a{
     color: var(--text-color);
     margin: 0 10px;    
